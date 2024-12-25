@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a7b87e726ef31b84a8982c53f4518444
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - recipeListSO: {fileID: 11400000, guid: 2df7d8f50fedb794dbcfb8dc7f50d94f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
